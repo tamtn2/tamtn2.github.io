@@ -1,44 +1,26 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/Project_Bedroom.JPG
+title: New Bedroom, New Life
+permalink: projects/new_Bedroom
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-12-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - House
+  - Bedroom
+  - Room
+summary: My dad and I build a new bedroom to add to our household.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/Project_Bedroom.JPG">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+During the late 2018, my grandma and some other distant family member were visiting from the mainland. Being the generous family my parents are, they offered a bedroom to our guest while they were visiting Hawaii. I was the unfortunate member of the family that my parents decided to make me give up my bedroom. Afterwards, I told them that I was not sleeping on our old hammock because it was uncomfortable and hurts my back in the morning. I definitely did not want to sleep in my car every single night since it's a cramp little spot and I did not have the finance to rent an Airbnb during our guest's stay.Finally, my dad suggested that we build a new bedroom accross from my brother's room on the patio. At first, I thought he was joking, until he made a list of items, went to Home Depot and and purchase roughly 2000 dollars worth of construction equipments. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+The first couple of weeks into building the bedroom was very slow as neither my dad nor I had the motivation to actually build it. We would constantly glanced over the patio space, think to ourselves and say, "We can start on it tomorrow", for two weeks. Now, two weeks before the guest had arrived, we slowly began to construct the bedroom. Usually, building a new room, or house, requires us to pour cement on the ground and create a foundation. We skipped this step because the ground was already set up. Then, we installed metal holder to hold our big wood stick and form a rectangle size room. Afterwards, we added windows, drywalls, and electrical wiring around the room to make it look like an actual room. Painting it white, let it dry, and installing porcelian flooring. AFter the paint was dry, I moved all my stuff into the bedroom and eventually became comfortable.
 
-Here is some code that illustrates how we read values from the line sensors:
+From this project, I learned about the challenges of constructions. When setting up the base of the room (Forming a square/rectangle shape) you must think out about what you're planning to install in your room, after the construction is finished. In our case, we spaced our wood pillars at every 1.5 feet in case I plan on mount items on the wall. We also had to make sure that we have enough inventory to finish the bedroom. Another case that popped up is electrical wiring. Dealing with electricity was a challenge for my father since he wasn't sure about how much outlets I would need. As well as properly installing it so it would not be exposed to the enviroment. The most challenging case during this project was installing the drywall. Drywalls are very heavy. When installing the drywall to the roof, we only had one ladder to help hold it up. This means that only one person was able to install the drywall as well as nailing it to the wooden pillars. So, my brothers and I would have to find chairs to stand on, and push the drywalls up while our arms were shaking. 
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
-
-
+In the end, my bedroom was completed. To this day (2021-21-01) it remains my bedroom and I couldn't ask for anything more. It's completely perfect and fine the way it is. 

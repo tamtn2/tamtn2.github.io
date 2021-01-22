@@ -1,25 +1,23 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/Project_PC2.JPG
 title: Vacay
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2016-01-30
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - PC
+  - Desktop
+  - Computers
+  - Self-build
+summary: A self build gaming PC
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/Project_PC2.JPG">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Building a personal desktop was one of the most exciting moments of my life. During this time, my previous desktop was constantly breaking down, overheating and stressful to use. This desktop was a prebuild PC by iBuyPower, which could run games at a fairly good frame rate and I was satasfied with it until maintenance became a hassle. Once it was completely unfixable, I decided to research on computer parts and how they're compatible with each other. Looking up on parts that will fulfill my requirements and started ordering on my mom's credit card, with my hard earn money. Once the parts arrived, I slowly pieced them together and was able to get the desktop I wanted that still works up to this day.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+This was an entire solo project, that consisted of me and my high school computer science's teacher assembly tool. Once I received the part, I would bring them to my high school and flex on the younger kids about my awesome computer parts that they couldn't afford. Putting the pieces together, I tested each parts along the progress. I would install the RAM stick, and processor, testing to see if they're functioning or not. Then, installing into the PC case, hook the IO onto the board and tested again. I continued this process until all the parts are assemble and functioning.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Ultimately, I learned patience throughout this project. If I did not take my time to do research, I may have bought parts that were not compatible with each other, wasting time shipping useless products, as well as money. Once I got the product, I had to take my time working each part, otherwise I could end up with a desktop that's not functioning. If that was the case, I would have to dismantle the desktop over and over, which could lead to damage, as well as wasting time. 

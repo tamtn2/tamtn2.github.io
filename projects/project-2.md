@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/ProjectPC2Cropped.jpg
-title: Vacay
+title: Awesome Little War Machine 
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2016-01-30

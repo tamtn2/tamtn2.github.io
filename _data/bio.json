@@ -79,8 +79,8 @@
       "institution": "Leeward Community College, Honolulu, HI",
       "area": "Information in Computer Science",
       "studyType": "Minor",
-      "startDate": "Fall 2017",
-      "endDate": "Spring 2019",
+      "startDate": "2017",
+      "endDate": "2019",
       "gpa": "3.5",
     }  
   ],
@@ -89,8 +89,8 @@
       "company": "Five Guys",
       "position": "Crew Member",
       "website": "https://www.fiveguys.com/",
-      "startDate": "July, 2016",
-      "endDate": "October, 2016",
+      "startDate": "2016",
+      "endDate": "2016",
       "summary": "Working as a team",
       "highlights": [
         "Usual Night Shift (Closing, cleaning and prepping for the next day)",
@@ -102,7 +102,7 @@
       "company": "Perfections Nails LLC",
       "position": "Receptionist/Manager",
       "website": "",
-      "startDate": "January, 2014",
+      "startDate": "2014",
       "endDate": "Present",
       "summary": "Customer Handling",
       "highlights": [

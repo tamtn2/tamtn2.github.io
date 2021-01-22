@@ -1,61 +1,21 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
+image: images/ProjectPondCropped.jpg
+title: Koi fish are awesome
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2020-07-25
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Koi Fish
+  - Pond
+summary: A pond build to house Koi Fish and Mother Mary
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/ProjectPondCropped.jpg">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+For this project, my parents wanted to display our new Mother Mary statue that they bought from Vietnam. Known for being a mother, they thought it would be best to build a pond, and represent her as a provider for Koi fish. This entire project was very hard working and very different from my other projects as it requires constant tweaking and plan changes. Right now, my dad considers it to be "unfinished" since it's missing proper water filtration and treatment. In my opinion, I think the pond looks great as is, and doesn't need more tweaking. Other than adding a water filtration. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+During the construction of this pond, my role was to dig a whole and find rocks for decoration. Digging the whole took my brothers and I about 10 hours in total, over the course of 3 days. The main problem during this process was to find a place to put the dirt, so we carried it into a deep corner of the backyard. Another problem was equipment. There were only two shovels the entire process and we had to carry the dirt, using Home Depot buckets that took tons of trip to dispose the dirt. Finally, finding the rocks. We traveled into the country side of Oahu, searching for huge stones to make our pond look as natural as possible. 
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+For this project, I learned that hard work pays in the end. Even though this project was labor-intensive, I was very satasfied with the current outcome. Halfway through the projects, I wanted to give up so many time as there was constant changes that was needed to be made. However, I sucked it up, and was glad that I held it to the end. 

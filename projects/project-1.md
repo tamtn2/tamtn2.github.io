@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Project_Bedroom.JPG
+image: images/ProjectBedroomCropped.JPG
 title: New Bedroom, New Life
 permalink: projects/new_Bedroom
 # All dates must be YYYY-MM-DD format!

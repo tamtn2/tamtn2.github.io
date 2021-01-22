@@ -2,7 +2,7 @@
   "basics": {
     "name": "Tam Nguyen",
     "label": "Student",
-    "picture": "https://tamtn2.github.io/images/ProfilePic.JPG",
+    "picture": "https://tamtn2.github.io/images/ProfilePicCropped.JPG",
     "email": "tam9@hawaii.edu",
     "phone": "",
     "website": "https://tamtn2.github.io",
@@ -120,7 +120,7 @@
       "position": "",
       "startDate": "",
       "endDate": "",
-      "summary": "L",
+      "summary": "",
       "highlights": [
         ""
       ]

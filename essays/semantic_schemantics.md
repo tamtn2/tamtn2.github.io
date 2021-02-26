@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Semantics? Sche-mantics
 # All dates must be YYYY-MM-DD format!
-date: 2021-02-1
+date: 2021-02-25
 labels:
   - Semantic UI
   - Framework CSS

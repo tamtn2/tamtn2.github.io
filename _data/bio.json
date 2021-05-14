@@ -73,6 +73,13 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "ICS 311 - Algorithms: Analyze codes in performance with hardware and real time factors",
+        "ICS 314 - Software Engineer: Learn fundamentals of a software engineer professionals": [
+          "Open Source Development"
+          "Integrated Development Enviroment"
+          "User Interface Framework"
+          "Coding Standards"
+        ]
       ]
     },
     {
@@ -82,6 +89,19 @@
       "startDate": "2017",
       "endDate": "2019",
       "gpa": "3.5",
+      "courses": [
+        "ICS 101 - Digital Tools for Info World: Basic understanding of computer application functionality. (Microsoft Word, Excel, Powerpoint, etc). (HTML/CSS)",
+        "ICS 110M - Introduction to Programming: Basic understanding of coding.",
+        "ICS 111 - Intro to Computer Science I: Beginner understanding of coding structure. (Java)",
+        "ICS 125 - Personal Comp Maint and Repair: Basic understanding of desktop hardware and internal components.",
+        "ICS 129 - Introduction to Databases: Beginner understanding of databases (SQL).",
+        "ICS 141 - Discrete Math for Comp Sci I: Beginner understanding of math in a logical sense.",
+        "ICS 170 - Ethics for Digital World: Philosophy of a computer scientist.",
+        "ICS 184 - Introduction to Networking: Beginner understanding of network structure."
+        "ICS 211 - Intro to Computer Science II: Continuation of ICS 111. Enhanced understanding of data structure and object-oriented programming. ",
+        "ICS 212 - Program Structure: Almost continuation of ICS 211. Enhanced understanding of program organization, Linux programming enviroment. (C/C++)",
+        "ICS 241 - Discrete Math for Comp Sci II: Continuation of ICS 141."
+      ]
     }  
   ],
   "work": [
@@ -110,6 +130,19 @@
         "Answer phone calls and provide assistance as well as creating reservation",
         "Match customers with correct technician",
         "Handle customer complaints"
+      ]
+    },
+    {
+      "company": "Uber",
+      "position": "Uber Driver",
+      "website": "https://www.uber.com/",
+      "startDate": "2020",
+      "endDate": "Present",
+      "summary": "Picking up passengers and dropping them off at their desired location",
+      "highlights": [
+        "Average rating of 5.00 Stars. (Highest Achievable)",
+        "Known for excellent  service and enjoyable conversation",
+        "Dedicated atleast 30 hours of work weekly"
       ]
     }
   ],

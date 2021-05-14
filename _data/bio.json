@@ -62,7 +62,7 @@
         "Java",
         "Javascript",
       ]
-    },
+    }
   ],
   "education": [
     {
@@ -74,12 +74,7 @@
       "gpa": "",
       "courses": [
         "ICS 311 - Algorithms: Analyze codes in performance with hardware and real time factors",
-        "ICS 314 - Software Engineer: Learn fundamentals of a software engineer professionals": [
-          "Open Source Development"
-          "Integrated Development Enviroment"
-          "User Interface Framework"
-          "Coding Standards"
-        ]
+        "ICS 314 - Software Engineer: Learn fundamentals of a software engineer professionals. Open Source Development, Integrated Development Enviroment, User Interface Framework, Coding Standards"
       ]
     },
     {
@@ -97,7 +92,7 @@
         "ICS 129 - Introduction to Databases: Beginner understanding of databases (SQL).",
         "ICS 141 - Discrete Math for Comp Sci I: Beginner understanding of math in a logical sense.",
         "ICS 170 - Ethics for Digital World: Philosophy of a computer scientist.",
-        "ICS 184 - Introduction to Networking: Beginner understanding of network structure."
+        "ICS 184 - Introduction to Networking: Beginner understanding of network structure.",
         "ICS 211 - Intro to Computer Science II: Continuation of ICS 111. Enhanced understanding of data structure and object-oriented programming. ",
         "ICS 212 - Program Structure: Almost continuation of ICS 211. Enhanced understanding of program organization, Linux programming enviroment. (C/C++)",
         "ICS 241 - Discrete Math for Comp Sci II: Continuation of ICS 141."

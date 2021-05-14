@@ -1,0 +1,20 @@
+---
+layout: essay
+type: essay
+title: I love Software Engineering
+# All dates must be YYYY-MM-DD format!
+date: 2021-05-13
+labels:
+  - Computer Science  
+  - Javascript
+  - Web Development
+  - Software Engineering
+---
+
+At the start of this semester, I was excited to get my feet wet by learning some coding at a more professional level. Meaning, I was expected to learn skills and attain tools needed in order to work with computers in the real world. My expectation, was not only met, but exceeded as I learned way more than I expected. At first, I though I was just going to be coding in an IDE and make programs within the IDE. Instead, I learned how to program with actual tools that professionals use and have it display publically for anyone to view. Not only that, I was able to learn GitHub, an open-source tool that I've always wanted to know how to use, but never knew how to start. 
+
+At first, I though Javascript was another basic language, where it can do anything and everything Java, maybe C++ can do. That was the case until we reached the Framework module that took JS to the next level. At this point, I started understanding why Professor Johnson, my Software Engineering professor, choosed JS. In this course, JS's object differs from other programming language which is on the primary reason it was chosen. Also, it offers many framework and a specific library, "_" (underscore), which can simplify anyone's life.
+
+Other than Javascript, this course also taught me how to integrate coding into real world application. In this case, it was web development. After learning the fundamentals, it was time for a final project which consisted of many people working together to create a user-friendly website. To do so, each person of the group was given parts of the website to work on, then we would all merge it together and make it work. To do so, we used an open-source host, such as GitHub, so that each person of the group could work on their part of the project and contribute to the main source. 
+
+During this time, I can understand what it feels like to work on a single coding project with multiple people. I can imagine how developers and engineer at major companies, such as Google or Apple, work together to create something out of complete nothing. Everyone has their own style that works and no matter how different the codes are, as they long as they all work. That's all it really matters, but one thing that everyone should have in common is coding standard. At first, I didn't think coding standards matter as if you write some codes, and it works, then why does it matter what it looks like? That was until I read other member's code and I had such a hard time understanding. Coding standards is IMPORTANT.

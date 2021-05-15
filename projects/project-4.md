@@ -22,3 +22,7 @@ As the semester near its end, my class and I are assigned one final project that
 Over the time it took to complete this project, we had to get creative. In the beggining of designing our website, we created multiple mockup of how the page would look like. Since we're creating a site that is user-friendly, it should be simple enough for the user to understand what to do and not over-complicated. So, as soon as you're on the website, you're given choices to either log in or sign up to create an account. As soon as your account is created and signed in, the navbar will be your guide to accessing other functionality of the website.
 
 From this final project, I've gotten to know partially about the life of a software engineer. However, the main experience is simply working together with other people to create a website out of nothing. The most difficult event during this experience was simply getting everything to work together. This can range from tying everyone's part and make it function, having a similar coding standards and more. For example, my group member though it would be better to use a certain element that differs from the rest of the pages. It had caused me issues where it was difficult for me to understand what the code is saying, but ultimately it doesn't matter as it fulfilled our coding standard and it functions properly!
+
+For anyone wishing to visit our website, 
+https://uhxchange.github.io/ (Homepage)
+https://uhxmanoa.xyz/        (Website)
